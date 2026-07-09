@@ -23,7 +23,6 @@
 - 🔥 Working with **Firebase** for backend & auth, and **Hive** for fast local storage
 - 🧠 Every project I build is a chance to master one more piece of the puzzle: state management, architecture, storage, and UI polish
 - 💬 Ask me about: Flutter, Dart, Clean Architecture, Firebase, Hive
-- 📫 Reach me: **your-email@example.com** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; [GitHub](https://github.com/your-username)
 
 ---
 
@@ -38,25 +37,12 @@
   <img src="https://img.shields.io/badge/Responsive%20UI-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
 
 ### 📌 What You'll Find Here
 
