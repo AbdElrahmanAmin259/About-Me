@@ -17,11 +17,12 @@
 
 ### 👋 About Me
 
-- 🎓 Mobile App Developer focused on **Flutter & Dart**
-- 🚀 I love building clean, well-structured UI and learning how things work under the hood
-- 🔥 Currently exploring **Firebase** & **Hive** for backend and local storage in Flutter apps
-- 🧠 Constantly practicing core concepts: state management, forms & validation, local/cloud storage, and clean architecture
-- 💬 Ask me about: Flutter, Dart, Firebase, Hive, State Management
+- 📱 Flutter Developer who cares about **clean, scalable code** — not just "making it work"
+- 🏗️ I build my apps following **Clean Architecture**, separating logic from UI so the codebase stays maintainable and easy to scale
+- 🎨 Focused on **Responsive UI** — apps that look right on every screen size, not just the one I'm testing on
+- 🔥 Working with **Firebase** for backend & auth, and **Hive** for fast local storage
+- 🧠 Every project I build is a chance to master one more piece of the puzzle: state management, architecture, storage, and UI polish
+- 💬 Ask me about: Flutter, Dart, Clean Architecture, Firebase, Hive
 - 📫 Reach me: **your-email@example.com** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; [GitHub](https://github.com/your-username)
 
 ---
@@ -33,6 +34,8 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=hive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4B0082?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20UI-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
@@ -55,14 +58,10 @@
 
 ---
 
-### 📌 Pinned Highlights
+### 📌 What You'll Find Here
 
-> ⭐ Feel free to explore my repos — most of them are hands-on practice projects where I focus on mastering one concept at a time: UI building, state management, Firebase integration, local storage with Hive, and more.
+> ⭐ Every repo here is built with the same mindset: structured, scalable, and clean. No throwaway code — each project reflects how I actually work: **Clean Architecture** on the inside, **responsive UI** on the outside.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0057FF&height=120&section=footer" />
-</p>
-
-<h4 align="center">Thanks for visiting my profile! 🚀</h4>
+<h3 align="center">💡 "Code is easy. Structuring it right is the real skill."</h3>
