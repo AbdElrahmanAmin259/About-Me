@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4DFF,100:0F6E56&height=220&section=header&text=Abdulrahman%20Amin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Mobile%20App%20Developer&descAlignY=55&descSize=20&descColor=EAE8FF" width="100%"/>
 
-<h3>عبدالرحمن أمين</h3>
+<h3>AbdElRahman Amin</h3>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=5B4DFF&center=true&vCenter=true&width=680&lines=Flutter+and+Dart+Developer;Mobile+App+Engineer;Building+Production+Apps+Solo;Real-Time+and+Multilingual+Systems;Clean+Code+and+Clean+Architecture" alt="Typing SVG"/>
@@ -55,8 +55,6 @@ I'm a **mobile app developer** who builds complete, production-grade application
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloud Messaging](https://img.shields.io/badge/Cloud%20Messaging-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Sign-In](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **State Management & Storage**
 
@@ -74,7 +72,6 @@ I'm a **mobile app developer** who builds complete, production-grade application
 
 What I can build, backed by real, shipped code:
 
-- 🌐 **Multi-language architecture** — custom localization engines supporting 6 languages, with full RTL support
 - ⚡ **Real-time systems** — live data sync, presence tracking, and social features via Firestore streams
 - 📴 **Offline-first data layers** — local storage (Hive) synced with cloud data (Firestore) by deliberate design
 - 🔐 **Custom authentication flows** — email/password, Google Sign-In, and custom OTP-based account recovery
@@ -89,8 +86,6 @@ What I can build, backed by real, shipped code:
 
 - **Architecture first** — Provider-based state trees with clean separation between data, service, and UI layers
 - **Performance-conscious animation** — hand-tuned `AnimationController` sequences (splash screens kept under 2.3s, even on low-end devices)
-- **Security-minded code** — sanitizing input, rate-limiting sensitive actions, guarding exports against CSV formula injection
-- **Real-world resilience** — backward-compatible data migrations, graceful stream error handling, and deduplication logic for merged real-time feeds
 
 <br/>
 
@@ -98,8 +93,8 @@ What I can build, backed by real, shipped code:
 
 | Language | Proficiency |
 |---|---|
-| Arabic | Native |
-| English | Professional Working Proficiency |
+| Arabic | 
+| English |
 
 <br/>
 
@@ -120,7 +115,6 @@ What I can build, backed by real, shipped code:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
