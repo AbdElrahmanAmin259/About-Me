@@ -8,18 +8,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4DFF,100:0F6E56&height=220&section=header&text=Abdulrahman%20Amin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Mobile%20App%20Developer&descAlignY=55&descSize=20&descColor=EAE8FF" width="100%"/>
 
 <h3>AbdElRahman Amin</h3>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=5B4DFF&center=true&vCenter=true&width=680&lines=Flutter+and+Dart+Developer;Mobile+App+Engineer;Building+Production+Apps+Solo;Real-Time+and+Multilingual+Systems;Clean+Code+and+Clean+Architecture" alt="Typing SVG"/>
-</a>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=5B4DFF&style=for-the-badge&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github"/>
-</p>
 
 </div>
 
