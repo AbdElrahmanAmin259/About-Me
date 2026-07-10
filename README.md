@@ -78,7 +78,7 @@ What I can build, backed by real, shipped code:
 |---|---|
 | ⚡ **Real-Time Systems** | Live data sync, presence tracking, and social features via Firestore streams |
 | 📴 **Offline-First Data Layers** | Local storage (Hive) synced with cloud data (Firestore) by deliberate design |
-| 🔐 **Custom Authentication** | Email/password, Google Sign-In, and custom OTP-based account recovery |
+| 🔐 **Custom Authentication** | Email/password authentication and Google Sign-In with Firebase Authentication. |
 | 📊 **Data Export Pipelines** | PDF report generation and injection-safe CSV exports |
 
 <br/>
@@ -89,11 +89,11 @@ What I can build, backed by real, shipped code:
 
 ## 💡 What I Focus On
 
-- **Architecture first** — Provider-based state trees with clean separation between data, service, and UI layers
-- **Building responsive Flutter UIs with efficient animations and minimal unnecessary rebuilds.** — hand-tuned `AnimationController` sequences, tuned for smooth performance even on low-end devices
-- **Building maintainable applications with robust error handling and scalable architecture.** — backward-compatible data migrations, graceful stream error handling, and deduplication logic for merged real-time feeds
+- **Architecture first** — I organize projects with Provider-based state management and a clear separation between UI, services, and data layers.
 
-<br/>
+- **Performance** — I build responsive Flutter UIs with efficient animations, optimized rebuilds, and smooth performance.
+
+- **Maintainability** — I write scalable code with proper error handling, reusable components, and clean project structure.<br/>
 
 ---
 
