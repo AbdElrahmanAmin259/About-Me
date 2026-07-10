@@ -1,53 +1,129 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=45&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Abdelrahman+Amin;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A3%D9%85%D9%8A%D9%86;Flutter+%26+Mobile+App+Developer" alt="Typing SVG" />
-</h1>
+<!--
+  Personal GitHub Profile README — Abdulrahman Amin
+  Before publishing, replace these placeholders:
+    YOUR_GITHUB_USERNAME  → your GitHub username
+    YOUR_EMAIL            → your email address
+    YOUR_LINKEDIN         → your LinkedIn handle
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00C2FF&height=180&section=header&text=&fontSize=0" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4DFF,100:0F6E56&height=220&section=header&text=Abdulrahman%20Amin&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Mobile%20App%20Developer&descAlignY=55&descSize=20&descColor=EAE8FF" width="100%"/>
+
+<h3>عبدالرحمن أمين</h3>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=5B4DFF&center=true&vCenter=true&width=680&lines=Flutter+and+Dart+Developer;Mobile+App+Engineer;Building+Production+Apps+Solo;Real-Time+and+Multilingual+Systems;Clean+Code+and+Clean+Architecture" alt="Typing SVG"/>
+</a>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=5B4DFF&style=for-the-badge&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github"/>
 </p>
 
-<h3 align="center">📱 Flutter Developer | Mobile App Enthusiast | Always Learning</h3>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelrahman-amin&color=00C2FF&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-</p>
+<br/>
 
----
+## 👋 About Me
 
-### 👋 About Me
+I'm a **mobile app developer** who builds complete, production-grade applications end-to-end — architecture, backend, UI, and every detail in between.
 
-- 📱 Flutter Developer who cares about **clean, scalable code** — not just "making it work"
-- 🏗️ I build my apps following **Clean Architecture**, separating logic from UI so the codebase stays maintainable and easy to scale
-- 🎨 Focused on **Responsive UI** — apps that look right on every screen size, not just the one I'm testing on
-- 🔥 Working with **Firebase** for backend & auth, and **Hive** for fast local storage
-- 🧠 Every project I build is a chance to master one more piece of the puzzle: state management, architecture, storage, and UI polish
-- 💬 Ask me about: Flutter, Dart, Clean Architecture, Firebase, Hive
+- 🏗️ I design **systems**, not just screens — state management trees, offline-first data layers, and localization architectures built to scale.
+- 🌍 I build for **real, global users** — multi-language systems with full right-to-left (RTL) support for Arabic.
+- ⚡ I build **real-time features** — live data sync, presence tracking, and social interactions powered by cloud streams.
+- 🔐 I sweat the details most people skip — input sanitization, rate limiting, and injection-safe data exports.
+- ⚡ Every skill below is pulled from real, shipped code — nothing here is filler.
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=hive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-4B0082?style=for-the-badge&logo=blueprint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive%20UI-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=dark"/>
+</div>
 
----
+<br/>
 
+**Language & Framework**
 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 📌 What You'll Find Here
+**Backend & Cloud**
 
-> ⭐ Every repo here is built with the same mindset: structured, scalable, and clean. No throwaway code — each project reflects how I actually work: **Clean Architecture** on the inside, **responsive UI** on the outside.
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloud Messaging](https://img.shields.io/badge/Cloud%20Messaging-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Sign-In](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
+**State Management & Storage**
 
-<h3 align="center">💡 "Code is easy. Structuring it right is the real skill."</h3>
+![Provider](https://img.shields.io/badge/Provider-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC300?style=for-the-badge)
+
+**Integrations & APIs**
+
+![RevenueCat](https://img.shields.io/badge/RevenueCat-6236FF?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
+
+<br/>
+
+## 🚀 Core Capabilities
+
+What I can build, backed by real, shipped code:
+
+- 🌐 **Multi-language architecture** — custom localization engines supporting 6 languages, with full RTL support
+- ⚡ **Real-time systems** — live data sync, presence tracking, and social features via Firestore streams
+- 📴 **Offline-first data layers** — local storage (Hive) synced with cloud data (Firestore) by deliberate design
+- 🔐 **Custom authentication flows** — email/password, Google Sign-In, and custom OTP-based account recovery
+- 📊 **Data export pipelines** — PDF report generation and injection-safe CSV exports
+- 🔔 **Scheduled notifications** — local push scheduling with Android 12+ exact-alarm handling
+- 💳 **In-app monetization** — subscription infrastructure with RevenueCat, including mock-testing workflows
+- 🎨 **Custom design systems** — light/dark/system theming, hand-tuned animation sequences, and custom data visualizations
+
+<br/>
+
+## 💡 What I Focus On
+
+- **Architecture first** — Provider-based state trees with clean separation between data, service, and UI layers
+- **Performance-conscious animation** — hand-tuned `AnimationController` sequences (splash screens kept under 2.3s, even on low-end devices)
+- **Security-minded code** — sanitizing input, rate-limiting sensitive actions, guarding exports against CSV formula injection
+- **Real-world resilience** — backward-compatible data migrations, graceful stream error handling, and deduplication logic for merged real-time feeds
+
+<br/>
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|---|---|
+| Arabic | Native |
+| English | Professional Working Proficiency |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=5B4DFF&icon_color=0F6E56&text_color=888888" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=5B4DFF&text_color=888888" width="38%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=5B4DFF&fire=0F6E56&currStreakLabel=5B4DFF" width="60%"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:5B4DFF&height=120&section=footer" width="100%"/>
