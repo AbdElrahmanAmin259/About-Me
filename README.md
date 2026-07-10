@@ -8,6 +8,9 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" style="display:none"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
 
 <h3>ABDELRAHMAN AMIN</h3>
 
@@ -16,6 +19,8 @@
 </a>
 
 <p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=5B4DFF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -27,6 +32,7 @@ I'm a Flutter developer with experience building scalable, production-ready mobi
 
 - 🏗️ I design **systems**, not just screens — state management trees, offline-first data layers, and localization architectures built to scale.
 - ⚡ I build **real-time features** — live data sync, presence tracking, and social interactions powered by cloud streams.
+- 🎨 I craft **adaptive UIs** — responsive layouts and seamless dark/light theming that feel native on every screen size.
 
 <br/>
 
@@ -54,6 +60,7 @@ Tools and technologies I use to build real, production-grade products:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-4CAF50?style=for-the-badge&logo=auth0&logoColor=white)
 
 **State Management & Storage**
 
@@ -63,6 +70,17 @@ Tools and technologies I use to build real, production-grade products:
 **Integrations & APIs**
 
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
+
+**UI/UX & Experience**
+
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-5B4DFF?style=for-the-badge&logo=flutter&logoColor=white)
+![Dark Mode](https://img.shields.io/badge/Dark%20Mode-121212?style=for-the-badge&logo=darkreader&logoColor=white)
+![Localization](https://img.shields.io/badge/Localization-0F6E56?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -80,6 +98,9 @@ What I can build, backed by real, shipped code:
 | 📴 **Offline-First Data Layers** | Local storage (Hive) synced with cloud data (Firestore) by deliberate design |
 | 🔐 **Custom Authentication** | Email/password authentication and Google Sign-In with Firebase Authentication. |
 | 📊 **Data Export Pipelines** | PDF report generation and injection-safe CSV exports |
+| 📱 **Responsive UI** | Layouts that adapt cleanly across phones, tablets, and orientations |
+| 🌗 **Dark Mode** | Full light/dark theming with smooth, animated transitions |
+| 🌍 **Localization** | Multi-language apps with RTL support and dynamic language switching |
 
 <br/>
 
@@ -102,10 +123,8 @@ What I can build, backed by real, shipped code:
 ## 🌐 Languages
 
 | Language | Proficiency |
-|---|---|
-| Arabic | 
-| English |
-
+| Arabic | Native |
+| English | Professional Working Proficiency |
 <br/>
 
 ---
@@ -126,6 +145,21 @@ What I can build, backed by real, shipped code:
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="90%"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="90%"/>
+</div>
+
+<sub><em>Note: the snake needs a small one-time setup — a GitHub Action that regenerates it daily. Ask me and I'll add the workflow file for you.</em></sub>
 
 <br/>
 
