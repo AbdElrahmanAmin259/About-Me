@@ -170,9 +170,7 @@ What I can build, backed by real, shipped code:
 
 <div align="center">
 
-[![LinkedIn](www.linkedin.com/in/abdelrahman-amin-9403a4297
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
