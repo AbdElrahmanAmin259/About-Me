@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm a **mobile app developer** who builds complete, production-grade applications end-to-end — architecture, Flutter developer with experience integrating Firebase backends, UI, and every detail in between.
+I'm a Flutter developer with experience building scalable, production-ready mobile applications using Flutter and Firebase. I enjoy designing clean architectures, integrating backend services, and creating polished user experiences.
 
 - 🏗️ I design **systems**, not just screens — state management trees, offline-first data layers, and localization architectures built to scale.
 - ⚡ I build **real-time features** — live data sync, presence tracking, and social interactions powered by cloud streams.
