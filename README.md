@@ -16,16 +16,6 @@
 </a>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=5B4DFF&style=for-the-badge&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/6-Languages%20Supported-5B4DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL-Fully%20Supported-0F6E56?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Architecture-Offline--First-5B4DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sync-Real--Time-0F6E56?style=for-the-badge"/>
-</p>
 
 </div>
 
