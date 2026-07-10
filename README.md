@@ -8,9 +8,25 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4DFF,100:0F6E56&height=230&section=header&text=Abdulrahman%20Amin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Flutter%20%26%20Mobile%20App%20Developer&descAlignY=52&descSize=20&descColor=EAE8FF" width="100%"/>
 
-<h3>AbdElRahman Amin</h3>
+<h3>عبدالرحمن أمين</h3>
 
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=5B4DFF&center=true&vCenter=true&width=700&lines=Flutter+and+Dart+Developer;Mobile+App+Engineer;Building+Production+Apps+Solo;Real-Time+and+Multilingual+Systems;Clean+Code+and+Clean+Architecture" alt="Typing SVG"/>
+</a>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=5B4DFF&style=for-the-badge&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0F6E56&label=FOLLOWERS&logo=github"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/6-Languages%20Supported-5B4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTL-Fully%20Supported-0F6E56?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Offline--First-5B4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sync-Real--Time-0F6E56?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -18,17 +34,20 @@
 
 ## 👋 About Me
 
-I'm a **mobile app developer** who builds complete, production-grade applications end-to-end — architecture, backend, UI, and every detail in between.
+I'm a **mobile app developer** who builds complete, production-grade applications end-to-end — architecture, Flutter developer with experience integrating Firebase backends, UI, and every detail in between.
 
 - 🏗️ I design **systems**, not just screens — state management trees, offline-first data layers, and localization architectures built to scale.
-- 🌍 I build for **real, global users** — multi-language systems with full right-to-left (RTL) support for Arabic.
 - ⚡ I build **real-time features** — live data sync, presence tracking, and social interactions powered by cloud streams.
-- 🔐 I sweat the details most people skip — input sanitization, rate limiting, and injection-safe data exports.
-- ⚡ Every skill below is pulled from real, shipped code — nothing here is filler.
+
+<br/>
+
+---
 
 <br/>
 
 ## 🛠️ Tech Stack
+
+Tools and technologies I use to build real, production-grade products:
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=dark"/>
@@ -54,8 +73,11 @@ I'm a **mobile app developer** who builds complete, production-grade application
 
 **Integrations & APIs**
 
-![RevenueCat](https://img.shields.io/badge/RevenueCat-6236FF?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
+
+<br/>
+
+---
 
 <br/>
 
@@ -63,20 +85,28 @@ I'm a **mobile app developer** who builds complete, production-grade application
 
 What I can build, backed by real, shipped code:
 
-- ⚡ **Real-time systems** — live data sync, presence tracking, and social features via Firestore streams
-- 📴 **Offline-first data layers** — local storage (Hive) synced with cloud data (Firestore) by deliberate design
-- 🔐 **Custom authentication flows** — email/password, Google Sign-In, and custom OTP-based account recovery
-- 📊 **Data export pipelines** — PDF report generation and injection-safe CSV exports
-- 🔔 **Scheduled notifications** — local push scheduling with Android 12+ exact-alarm handling
-- 💳 **In-app monetization** — subscription infrastructure with RevenueCat, including mock-testing workflows
-- 🎨 **Custom design systems** — light/dark/system theming, hand-tuned animation sequences, and custom data visualizations
+| | |
+|---|---|
+| ⚡ **Real-Time Systems** | Live data sync, presence tracking, and social features via Firestore streams |
+| 📴 **Offline-First Data Layers** | Local storage (Hive) synced with cloud data (Firestore) by deliberate design |
+| 🔐 **Custom Authentication** | Email/password, Google Sign-In, and custom OTP-based account recovery |
+| 📊 **Data Export Pipelines** | PDF report generation and injection-safe CSV exports |
+
+<br/>
+
+---
 
 <br/>
 
 ## 💡 What I Focus On
 
 - **Architecture first** — Provider-based state trees with clean separation between data, service, and UI layers
-- **Performance-conscious animation** — hand-tuned `AnimationController` sequences (splash screens kept under 2.3s, even on low-end devices)
+- **Building responsive Flutter UIs with efficient animations and minimal unnecessary rebuilds.** — hand-tuned `AnimationController` sequences, tuned for smooth performance even on low-end devices
+- **Building maintainable applications with robust error handling and scalable architecture.** — backward-compatible data migrations, graceful stream error handling, and deduplication logic for merged real-time feeds
+
+<br/>
+
+---
 
 <br/>
 
@@ -86,6 +116,10 @@ What I can build, backed by real, shipped code:
 |---|---|
 | Arabic | 
 | English |
+
+<br/>
+
+---
 
 <br/>
 
@@ -100,6 +134,14 @@ What I can build, backed by real, shipped code:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=5B4DFF&fire=0F6E56&currStreakLabel=5B4DFF" width="60%"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
+</div>
+
+<br/>
+
+---
+
 <br/>
 
 ## 🤝 Connect With Me
@@ -107,8 +149,13 @@ What I can build, backed by real, shipped code:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Thanks for stopping by — let's build something great together. 💪</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:5B4DFF&height=120&section=footer" width="100%"/>
